@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Abe</h1>
-<h3 align="center">A passionate Junior Python Developer from Ottawa</h3>
+<h3 align="center">A passionate Python & C Developer from Ottawa</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulaahemin"/> </p>
 
 # 💫 About Me:
